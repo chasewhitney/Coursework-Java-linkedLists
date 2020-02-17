@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e18e591-a53a-41e0-8aa3-ccb5498ae69d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xwp9VlxB44iAHiOGzsg2qApcPs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Playlist" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e18e591-a53a-41e0-8aa3-ccb5498ae69d" name="Default Changelist" comment="" />
+      <created>1581966859794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581966859794</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3195" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1581967458263">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3195" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/2560.0.1920.1080@2560.0.1920.1080" timestamp="1581967458263" />
+    <state x="3118" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581973560535">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3118" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/2560.0.1920.1080@2560.0.1920.1080" timestamp="1581973560535" />
+    <state width="1601" height="251" key="GridCell.Tab.0.bottom" timestamp="1581975854452">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1601" height="251" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.0.1920.1080@2560.0.1920.1080" timestamp="1581975854452" />
+    <state width="1601" height="251" key="GridCell.Tab.0.center" timestamp="1581975854452">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1601" height="251" key="GridCell.Tab.0.center/0.0.2560.1440/2560.0.1920.1080@2560.0.1920.1080" timestamp="1581975854452" />
+    <state width="1601" height="251" key="GridCell.Tab.0.left" timestamp="1581975854452">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1601" height="251" key="GridCell.Tab.0.left/0.0.2560.1440/2560.0.1920.1080@2560.0.1920.1080" timestamp="1581975854452" />
+    <state width="1601" height="251" key="GridCell.Tab.0.right" timestamp="1581975854452">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1601" height="251" key="GridCell.Tab.0.right/0.0.2560.1440/2560.0.1920.1080@2560.0.1920.1080" timestamp="1581975854452" />
+  </component>
+</project>
